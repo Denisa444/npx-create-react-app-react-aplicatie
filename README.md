@@ -1,1 +1,1 @@
-# npx-create-react-app-react-aplicatie
+# npx-create-react-app react-aplicatie
